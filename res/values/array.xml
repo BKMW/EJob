@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+     <string-array name="choixx">
+        <item >Service</item>
+        <item >Customer</item>
+    </string-array>
+    
+      <string-array name="choix_liste">
+        
+        <item >Demander rendez vous</item>
+          <item >Envoyer message contact</item>
+          <item >Envoyer reclamation</item>
+           <item >Appeler service</item>
+        
+    </string-array>
+     <string-array name="choix_listerdv">
+        
+          <item >Repondre au rendez vous</item>
+       
+    </string-array>
+     <string-array name="choix_listereclamation">
+        
+          <item >repondre au reclamation</item>
+       
+    </string-array>
+       <string-array name="choix_listemsg">
+         <item >Read message</item>
+          <item >Reply</item>
+       
+    </string-array>
+    
+</resources>
